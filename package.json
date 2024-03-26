@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "homepage" : "https://AykuEno.github.io/The-Vue",
+    "homepage": "https://AykuEno.github.io/The-Vue",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "dev": "vite",
@@ -20,6 +20,7 @@
     "@reduxjs/toolkit": "^1.9.5",
     "bootstrap": "^5.3.3",
     "firebase": "^10.1.0",
+    "gh-pages": "^6.1.1",
     "mern-auth": "file:..",
     "react": "^18.2.0",
     "react-bootstrap": "^2.10.2",
